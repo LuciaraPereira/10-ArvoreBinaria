@@ -143,7 +143,7 @@ NO* insereArvore(NO* no, int valor)
 
 int elementosArvore(NO* no)
 {
-	if (no == NULL) {
+	if (no == NULL) { 
 		return 0;
 	}
 
